@@ -1,4 +1,5 @@
     <div id="testmonial" class="row">
+    <?php // testmonial ?>
       <span class="inred">Testmonial</span>
       <h2 class="col-9">Sie zögern immer noch, mit uns zusammenzuarbeiten? Überprüfen Sie, was sie über uns sagen</h2>
       <div id="testleft" class="col-6 col-m-6">

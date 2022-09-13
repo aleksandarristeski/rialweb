@@ -1,4 +1,5 @@
 <div>
+<?php // Datenschutz ?>
   <h1>Datenschutzerklärung</h1>
   <h2 id="m14">Einleitung</h2>
   
