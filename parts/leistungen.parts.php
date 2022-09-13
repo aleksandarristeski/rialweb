@@ -1,4 +1,5 @@
 <div id="content">
+<?php // leistungen ?>
     <div id="hallo" class="row">
       <div id="halloleft" class="col-6">
         <img src="img/media/halloline.png" alt="connect line">

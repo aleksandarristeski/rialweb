@@ -1,4 +1,5 @@
   <div id="footer" class="row">
+  <?php // Footer ?>
     <div class="row-full"> <!-- Full width container --></div>
     <div class="col-3 col-m-6 col-l-7">
       <a href="index.php"><img src="img/logo/logo.svg" alt="rialweb logo"></a>
